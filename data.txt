@@ -64,3 +64,4 @@ PRODUCT (P_NO, P_DESCRIPTION, P_TYPE, P_PRICE):(846, 'kettle', 'electricals', 25
 CUSTOMER (C_NO, C_NAME, C_ADDRESS):(356, 'T Brewer', '34 Kings Road TH10 2BD')
 ORDER (O_NO, P_NO, C_NO, DATE):(7453, 846, 356, '01-JAN-20')
 REVIEW (P_NO, C_NO, DATE, RATING, COMMENT):(846, 356, '05-JAN-2020', 4, 'Good budget kettle')
+
